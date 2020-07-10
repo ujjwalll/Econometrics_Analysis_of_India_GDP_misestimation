@@ -1,4 +1,4 @@
-# Econometrics---Final-Project
+# India's GDP misestimation, is it justified?
 A Econometric Analysis of the India's GDP to determine whether their is any flaw in India's GDP, as quoted by Dr. Arvind Subhramanium.
 
 This project is done under guidance of Dr. Gaurav Arora and Ms. Sumedha Shukla.
